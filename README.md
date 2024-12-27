@@ -77,8 +77,10 @@ Performed in-depth analysis with visualizations to explore:
 
 ### Running the Code
 1. Clone this repository or download the project files.
-2. Open the `analysis.py` file in your code editor.
-3. Run the script using:
+2. Open the folder's path in cmd and run code:
+   ```bash
+   venv\Scripts\activate```
+3. Run the script in cmd\VS Code Terminal using:
    ```bash
    py analysis.py
    ```
