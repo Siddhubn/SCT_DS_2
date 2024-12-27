@@ -100,7 +100,17 @@ Performed in-depth analysis with visualizations to explore:
 
 ---
 ## Graphs and Screenshots
-
+![Fare distribution of Passengers](https://github.com/user-attachments/assets/7f39d6fe-5dac-40cc-bec7-b15b5dcb7c0d)
+![Age Distribution of Passengers](https://github.com/user-attachments/assets/6c5c5070-31f2-4a38-8d4f-4927fecdccb8)
+![Survival Rate by Gender](https://github.com/user-attachments/assets/d1fc8938-cd5f-4e53-a665-aa1d60c2a133)
+![Survival Rate by Passenger Class](https://github.com/user-attachments/assets/04225875-8c8f-41c9-9c18-3e98aa9d60b6)
+![Survival Rate by Embarkation Port](https://github.com/user-attachments/assets/e7a4313f-9189-4200-be7f-38803273ee02)
+![Corelation matrix](https://github.com/user-attachments/assets/dd6304a6-3282-400d-a009-067092219ece)
+![download](https://github.com/user-attachments/assets/e63f72dc-9e8a-4b69-93bd-74a54834edd0)
+![Survival Rate by Title](https://github.com/user-attachments/assets/82516f67-c0e5-4fba-81a6-c678d0064097)
+![Survival by Age and Fare](https://github.com/user-attachments/assets/39fa7985-f653-480b-9510-a684a5f39b72)
+![Stats 1](https://github.com/user-attachments/assets/edd47677-93e1-47d4-804f-e6e69c5acaab)
+![Stats 2](https://github.com/user-attachments/assets/6a0d7648-b2a6-4a0c-9795-dc03f435daee)
 
 ---
 
