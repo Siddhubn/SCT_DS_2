@@ -100,7 +100,7 @@ Performed in-depth analysis with visualizations to explore:
 
 ---
 ## Graphs and Screenshots
-![Fare distribution of Passengers](`Graphs_and_Screenshots/Fare distribution of Passengers.png`)
+![Fare distribution of Passengers](Graphs_and_Screenshots\Fare distribution of Passengers.png)
 ![Age Distribution of Passengers](https://github.com/user-attachments/assets/6c5c5070-31f2-4a38-8d4f-4927fecdccb8)
 ![Survival Rate by Gender](https://github.com/user-attachments/assets/d1fc8938-cd5f-4e53-a665-aa1d60c2a133)
 ![Survival Rate by Passenger Class](https://github.com/user-attachments/assets/04225875-8c8f-41c9-9c18-3e98aa9d60b6)
