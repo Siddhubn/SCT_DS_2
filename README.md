@@ -109,8 +109,8 @@ Performed in-depth analysis with visualizations to explore:
 ![download](Graphs_and_Screenshots/7.png)
 ![Survival Rate by Title](Graphs_and_Screenshots/8.png)
 ![Survival by Age and Fare](Graphs_and_Screenshots/9.png)
-![Stats 1](Graphs_and_Screenshots/10.png)
-![Stats 2](Graphs_and_Screenshots/11.png)
+![Stats 1](Graphs_and_Screenshots/10.jpg)
+![Stats 2](Graphs_and_Screenshots/11.jpg)
 
 ---
 
