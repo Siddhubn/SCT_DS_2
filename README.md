@@ -97,8 +97,6 @@ Performed in-depth analysis with visualizations to explore:
 - **Fare**: Passengers who paid higher fares were more likely to survive.
 
 ---
-
----
 ## Graphs and Screenshots
 ![Fare distribution of Passengers](Graphs_and_Screenshots/1.png)
 ![Age Distribution of Passengers](Graphs_and_Screenshots/2.png)
